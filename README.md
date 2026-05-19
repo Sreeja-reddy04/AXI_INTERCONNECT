@@ -2,6 +2,8 @@
 The AXI Interconnect connects multiple masters and slaves, enabling efficient communication within a system-on-chip (SoC). It 
 performs address decoding, routing, and arbitration while ensuring high performance, low latency, and protocol-compliant data transfer across the system.
 
+<img width="389" height="256" alt="Screenshot 2026-05-04 175419" src="https://github.com/user-attachments/assets/5ee42ac9-96a9-450e-b31f-2e2586888276" />
+
 ## AXI INTERCONNECT FEATURES
 - Supports simultaneous transactions for parallel data transfer 
 - Performs address decoding and routing efficiently 
@@ -26,6 +28,8 @@ AWSIZE, AWBURST
 ARSIZE, ARBURST 
 - Read Data Channel (R)
   : RDATA, RVALID, RREADY, RRESP, RLAST
+<img width="524" height="464" alt="Screenshot 2026-05-04 174712" src="https://github.com/user-attachments/assets/f74ccae7-befc-44fe-a9d1-de6b8e0c72c3" />
+
 ## HANDSHAKING MECHANISM
 - VALID–READY handshake used in 
 all channels 
@@ -36,6 +40,8 @@ receiver
 - Supports independent flow 
 control
 - Ensures reliable data transfer
+                  <img width="729" height="305" alt="Screenshot 2026-05-04 180607" src="https://github.com/user-attachments/assets/1b51a4a8-d9e1-4391-bb56-ff62c76bb78c" />
+
 ## TEST CASES
 - FIXEDBurst transaction 
 - INCREMENT Burst transaction
