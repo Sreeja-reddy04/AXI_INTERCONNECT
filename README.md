@@ -41,6 +41,14 @@ control
 - INCREMENT Burst transaction
 - WRAP Burst transaction
 - Arbitration(Multiple-Master Access)
+
+## WAVEFORM
+
+<img width="1334" height="484" alt="Screenshot 2026-05-04 210728" src="https://github.com/user-attachments/assets/a1955b9c-38ed-4ad7-af0e-9c9f86e675d7" />
+
+## COVERAGE REPORT
+  <img width="1365" height="419" alt="Screenshot 2026-05-04 194653" src="https://github.com/user-attachments/assets/b05386c3-0614-416c-8b74-05379cb2ca8a" />
+  
  ## CONCLUSION 
 - Developed and verified an AXI interconnect using a UVM-based environment 
 with AXI VIP, ensuring protocol compliance 
